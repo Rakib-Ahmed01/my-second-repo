@@ -3,6 +3,5 @@ using namespace std;
 
 int main()
 {
-    cout << "Assalamualaikum..." << endl;
-    cout << "Kmon Achen...." << endl;
+    cout << "Assalamualaikum.Kmon Achen..?" << endl;
 }
