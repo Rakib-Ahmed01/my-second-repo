@@ -9,9 +9,9 @@ int multiply(int n, int m)
 {
     return n * m;
 }
-int sub(int n, int m, int o)
+int add(int n, int m)
 {
-    return n - (m - o);
+    return n + m;
 }
 
 int main()
